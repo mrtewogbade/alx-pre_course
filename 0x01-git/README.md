@@ -1,3 +1,3 @@
 # alx-pre_course
-go
+Im a student now
 
